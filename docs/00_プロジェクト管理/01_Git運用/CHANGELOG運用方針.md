@@ -114,23 +114,39 @@ CHANGELOGには、外部から確認した際にプロジェクトの変化と�
 
 ## 6. 更新タイミング
 
-CHANGELOGは、原則としてPull Requestをmainへマージする前に、記載対象となる変更があるか確認する。
+CHANGELOGは、作業ブランチ上でCHANGELOGの更新を除くすべての作業およびコミットが完了した後、Pull Requestを作成する前に更新する。
 
-記載対象となる変更がある場合は、同じ作業ブランチ上で `CHANGELOG.md` を更新する。
+記載対象となる変更がある場合は、同じ作業ブランチ上で `CHANGELOG.md` を更新し、CHANGELOGの更新を独立したコミットとして記録する。その後、Pull Requestを作成する。
 
 CHANGELOGへ記載する必要がない変更については、更新を必須としない。
+
+### 更新手順
+
+```text
+作業・コミット完了
+    ↓
+CHANGELOGへの記載要否を確認
+    ↓
+必要に応じてCHANGELOG.mdを更新・コミット
+    ↓
+Pull Request作成
+```
 
 ---
 
 ## 7. Pull Requestとの関係
 
-Pull Request確認時に、CHANGELOGへの記載が必要な変更かを確認する。
+Pull Requestには、記載対象となる変更がある場合、CHANGELOGの更新コミットを含める。
 
-必要な場合は、Pull RequestにCHANGELOGの変更を含める。
+Pull Request確認時には、CHANGELOGの記載要否および記載内容が実際の変更内容と一致しているかを確認する。
 
 CHANGELOGの更新だけを目的とした修正が必要になった場合は、通常のIssue・ブランチ運用に従う。
 
 軽微かつ緊急性の高い修正については、ブランチ運用ルールに定める緊急修正の扱いに従う。
+
+### CHANGELOGのコンフリクト
+
+CHANGELOGのマージ時にコンフリクトが発生した場合は、リポジトリの管理者が変更内容を確認し、必要な記載内容を保持した上でコンフリクトを解消してマージを行う。
 
 ---
 
