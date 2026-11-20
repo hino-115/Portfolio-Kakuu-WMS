@@ -8,6 +8,7 @@ Git のコミット履歴では作業過程や細かな変更を追跡し、CHAN
 
 ### Added
 
+- 画面一覧（SCR-001～SCR-027の27画面、CMN-001～CMN-006の共通要素6件）のMarkdown版を追加（#33）。
 - 上位DFDのdraw.io編集元、閲覧用PNG画像とREADMEを追加（#32）。
 - 機能要件一覧75件と機能要件詳細75件のMarkdown版・Excel版を追加（#31）。
 - ユースケース一覧（Markdown・Excel）、業務領域別のユースケース図（draw.io・PNG画像5点）およびREADMEを追加（#30）。
