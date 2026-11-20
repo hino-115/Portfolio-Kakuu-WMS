@@ -23,7 +23,7 @@
 
 ### 3. 配置のみのER図
 
-![KAKUU WMS 概念ER図 第1段階 配置のみ](png/KAKUU_WMS_概念ER図_第1段階_配置のみ.drawio.png)
+![KAKUU WMS 概念ER図 第1段階 配置のみ](images/概念ER図_第1段階_配置のみ.png)
 
 ### 4. 関係・多重度の考え方
 
@@ -41,7 +41,7 @@
 
 ### 5. 完成ER図
 
-![KAKUU WMS 概念ER図 第1段階 線・多重度追加](png/KAKUU_WMS_概念ER図_第1段階_線・多重度追加.drawio.png)
+![KAKUU WMS 概念ER図 第1段階 線・多重度追加](images/概念ER図_第1段階_線・多重度追加.png)
 
 ---
 
@@ -64,7 +64,7 @@
 
 ### 3. 配置のみのER図
 
-![KAKUU WMS 概念ER図 第2段階 配置のみ](png/KAKUU_WMS_概念ER図_第2段階_配置のみ.drawio.png)
+![KAKUU WMS 概念ER図 第2段階 配置のみ](images/概念ER図_第2段階_配置のみ.png)
 
 ### 4. 関係・多重度の考え方
 
@@ -87,7 +87,7 @@
 
 ### 5. 完成ER図
 
-![KAKUU WMS 概念ER図 第2段階 線・多重度追加](png/KAKUU_WMS_概念ER図_第2段階_線・多重度追加.drawio.png)
+![KAKUU WMS 概念ER図 第2段階 線・多重度追加](images/概念ER図_第2段階_線・多重度追加.png)
 
 ---
 
@@ -112,7 +112,7 @@
 
 ### 3. 配置のみのER図
 
-![KAKUU WMS 概念ER図 第3段階 配置のみ](png/KAKUU_WMS_概念ER図_第3段階_配置のみ.drawio.png)
+![KAKUU WMS 概念ER図 第3段階 配置のみ](images/概念ER図_第3段階_配置のみ.png)
 
 ### 4. 関係・多重度の考え方
 
@@ -130,4 +130,4 @@
 
 ### 5. 完成ER図
 
-![KAKUU WMS 概念ER図 第3段階 線・多重度追加](png/KAKUU_WMS_概念ER図_第3段階_線・多重度追加.drawio.png)
+![KAKUU WMS 概念ER図 第3段階 線・多重度追加](images/概念ER図_第3段階_線・多重度追加.png)
