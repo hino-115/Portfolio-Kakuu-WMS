@@ -8,6 +8,7 @@ Git のコミット履歴では作業過程や細かな変更を追跡し、CHAN
 
 ### Added
 
+- 上位DFDのdraw.io編集元、閲覧用PNG画像とREADMEを追加（#32）。
 - 機能要件一覧75件と機能要件詳細75件のMarkdown版・Excel版を追加（#31）。
 - ユースケース一覧（Markdown・Excel）、業務領域別のユースケース図（draw.io・PNG画像5点）およびREADMEを追加（#30）。
 - システム導入後の業務フロー図5点の閲覧用画像、AIへの指示用Excelおよび導入前後の比較用READMEを追加（#29）。
