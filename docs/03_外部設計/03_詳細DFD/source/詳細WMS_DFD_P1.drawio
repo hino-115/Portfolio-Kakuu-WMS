@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="kakuu-p1-detail-dfd" name="P1_商品マスタ管理_詳細DFD">
-    <mxGraphModel dx="1212" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3900" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="562" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3900" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#17365D;strokeColor=#17365D;fontColor=#FFFFFF;fontStyle=1;fontSize=28;align=left;verticalAlign=middle;spacingLeft=20;" value="KAKUU WMS｜詳細DFD P1 商品・マスタ管理" vertex="1">
           <mxGeometry height="65" width="4130" x="50" y="25" as="geometry" />
         </mxCell>
-        <mxCell id="sub" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#9CC2E5;fontColor=#17365D;fontSize=16;align=left;verticalAlign=middle;spacingLeft=14;" value="P1 商品・マスタ管理を9つのマスタ管理プロセスに分解。社員操作、マスタ登録・更新、マスタ参照の流れを示す。" vertex="1">
+        <mxCell id="sub" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#9CC2E5;fontColor=#17365D;fontSize=16;align=left;verticalAlign=middle;spacingLeft=14;" value="P1 商品・マスタ管理を10つのマスタ管理プロセスに分解。社員操作、マスタ登録・更新、マスタ参照の流れを示す。" vertex="1">
           <mxGeometry height="44" width="4130" x="50" y="100" as="geometry" />
         </mxCell>
         <mxCell id="employee" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=#5B9BD5;fontColor=#17365D;fontStyle=1;fontSize=24;align=center;verticalAlign=middle;" value="社員（システム運用管理者）" vertex="1">
