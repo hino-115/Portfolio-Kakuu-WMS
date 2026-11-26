@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="292" viewBox="0 0 340 146" role="img" aria-label="関連線の表記方法">
+<rect width="340" height="146" fill="white"/>
+<g transform="translate(0 12)" font-family="Noto Sans CJK JP, sans-serif" font-size="12" text-anchor="middle" fill="#222">
+<g fill="white" stroke="#333" stroke-width="1.4"><rect x="10" y="0" width="100" height="32" rx="2"/><rect x="230" y="0" width="100" height="32" rx="2"/></g>
+<text x="60" y="20">エンティティA</text><text x="280" y="20">エンティティB</text>
+<path d="M110 16 H230" stroke="#333" stroke-width="1.6" stroke-dasharray="none" fill="none"/>
+<text x="170" y="52">FKを設定する関連（実線）</text></g>
+<g transform="translate(0 84)" font-family="Noto Sans CJK JP, sans-serif" font-size="12" text-anchor="middle" fill="#222">
+<g fill="white" stroke="#333" stroke-width="1.4"><rect x="10" y="0" width="100" height="32" rx="2"/><rect x="230" y="0" width="100" height="32" rx="2"/></g>
+<text x="60" y="20">エンティティA</text><text x="280" y="20">エンティティB</text>
+<path d="M110 16 H230" stroke="#333" stroke-width="1.6" stroke-dasharray="6 4" fill="none"/>
+<text x="170" y="52">FKを設定しない参照関係（破線）</text></g>
+<path d="M12 73 H328" stroke="#ddd"/>
+</svg>
