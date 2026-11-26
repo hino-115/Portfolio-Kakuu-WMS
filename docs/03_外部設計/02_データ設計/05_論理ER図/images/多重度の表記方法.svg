@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="496" viewBox="0 0 340 248" role="img" aria-label="IE記法の多重度">
+<rect width="340" height="248" fill="white"/>
+<g transform="translate(0 8)" stroke="#333" fill="none" stroke-width="1.6">
+<rect x="12" y="8" width="38" height="30"/><rect x="146" y="8" width="38" height="30"/>
+<path d="M50 23 H146"/><path d="M117 14 V32"/>
+<path d="M137 14 V32"/>
+<g fill="#222" stroke="none" font-family="Noto Sans CJK JP, sans-serif"><text x="202" y="19" font-size="14" font-weight="bold">1</text><text x="202" y="37" font-size="12">必ず1件</text></g></g>
+<path d="M12 66 H328" stroke="#ddd"/>
+<g transform="translate(0 68)" stroke="#333" fill="none" stroke-width="1.6">
+<rect x="12" y="8" width="38" height="30"/><rect x="146" y="8" width="38" height="30"/>
+<path d="M50 23 H112"/><circle cx="117" cy="23" r="5" fill="white"/><path d="M122 23 H146"/>
+<path d="M137 14 V32"/>
+<g fill="#222" stroke="none" font-family="Noto Sans CJK JP, sans-serif"><text x="202" y="19" font-size="14" font-weight="bold">0..1</text><text x="202" y="37" font-size="12">0件または1件</text></g></g>
+<path d="M12 126 H328" stroke="#ddd"/>
+<g transform="translate(0 128)" stroke="#333" fill="none" stroke-width="1.6">
+<rect x="12" y="8" width="38" height="30"/><rect x="146" y="8" width="38" height="30"/>
+<path d="M50 23 H146"/><path d="M117 14 V32"/>
+<path d="M128 23 L146 12 M128 23 L146 34"/>
+<g fill="#222" stroke="none" font-family="Noto Sans CJK JP, sans-serif"><text x="202" y="19" font-size="14" font-weight="bold">1..N</text><text x="202" y="37" font-size="12">1件以上</text></g></g>
+<path d="M12 186 H328" stroke="#ddd"/>
+<g transform="translate(0 188)" stroke="#333" fill="none" stroke-width="1.6">
+<rect x="12" y="8" width="38" height="30"/><rect x="146" y="8" width="38" height="30"/>
+<path d="M50 23 H112"/><circle cx="117" cy="23" r="5" fill="white"/><path d="M122 23 H146"/>
+<path d="M128 23 L146 12 M128 23 L146 34"/>
+<g fill="#222" stroke="none" font-family="Noto Sans CJK JP, sans-serif"><text x="202" y="19" font-size="14" font-weight="bold">0..N</text><text x="202" y="37" font-size="12">0件以上</text></g></g>
+
+</svg>
